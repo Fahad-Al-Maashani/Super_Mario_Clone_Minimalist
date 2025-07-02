@@ -1,4 +1,4 @@
-# 🍄 Super Mario Python Game
+# 🍄 Debt Collector Python Game
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)
 
-*A classic Super Mario-style platformer game built entirely in Python using Pygame!*
+*A Debt Collector game built entirely in Python using Pygame!*
 
 [Features](#-features) • [Installation](#-installation) • [Controls](#-controls) • [Gameplay](#-gameplay) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
 
