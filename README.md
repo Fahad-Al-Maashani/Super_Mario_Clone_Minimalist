@@ -51,7 +51,7 @@
 1. **Clone or download the game files**
    ```bash
    # If using git
-   git clone https://github.com/yourusername/super-mario-python.git
+   git clone https://github.com/Fahad-Al-Maashani/Super_Mario_Clone_Minimalist.git
    cd super-mario-python
    
    # Or download the mario_game.py file directly
