@@ -314,10 +314,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 Having trouble? We're here to help!
 
-- 📧 **Email**: support@mariogame.dev
-- 💬 **Discord**: Join our [gaming community](https://discord.gg/mariogame)
-- 🐛 **Issues**: Report bugs on [GitHub Issues](https://github.com/yourusername/super-mario-python/issues)
-- 📖 **Wiki**: Check our [documentation wiki](https://github.com/yourusername/super-mario-python/wiki)
+- 🐛 **Issues**: Report bugs on [GitHub Issues](https://github.com/Fahad-Al-Maashani/Super_Mario_Clone_Minimalist/issues))
 
 ---
 
